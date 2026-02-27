@@ -1,11 +1,7 @@
-# Hi, I'm Mario Duarte da Silveira!  | iOS Developer
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=The%20people%20who%20are%20crazy%20enough%20to%20think%20they%20can%20change%20the%20world%20are%20the%20ones%20who%20do.&author=Steve%20Jobs" alt="Steve Jobs Quote" />
-</p>
+# Hi, I'm Mario Duarte da Silveira!  | iOS Developer  |  Mechatronics Engineer ⚙️
 
 ### 💫 About Me
-I am a passionate iOS Developer dedicated to creating clean, efficient, and user-centric mobile experiences. My journey began with mastering the core fundamentals of **Swift** and has evolved into building sophisticated applications using the latest Apple technologies. 
+I am a passionate iOS Developer dedicated to creating clean, efficient, and user-centric mobile experiences. My journey began with mastering the core fundamentals of **Swift** and has evolved into building sophisticated applications using the latest Apple technologies. I have a degree in Mechatronics Engineering, which gave me the opportunity to learn about programming, hardware, and software!
 
 Today, I specialize in **Swift 6** and **SwiftUI**, with deep dives into **SwiftData** for modern persistence, **MapKit** for geographic data, and **WidgetKit** for ecosystem integration. I enjoy the challenge of bridging the gap between legacy concepts (like Core Data) and the new era of declarative, safe, and performant programming.
 
@@ -55,14 +51,13 @@ Today, I specialize in **Swift 6** and **SwiftUI**, with deep dives into **Swift
 
 ---
 
-### 📊 GitHub Stats
+### 🐍 My Contributions
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=keykenzo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keykenzo&layout=compact&langs_count=7&theme=dracula" />
+  <img src="https://raw.githubusercontent.com/keykenzo/marioduarte/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
 
 ### 📫 How to reach me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-LINK-AQUI)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@dominio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marioduartesilveira/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariods7@gmail.com)
