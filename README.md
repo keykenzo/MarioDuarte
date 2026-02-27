@@ -58,7 +58,9 @@ Today, I specialize in **Swift 6** and **SwiftUI**, with deep dives into **Swift
 > <p><img src="https://github.com/keykenzo/SimpsonsApp/blob/main/SimpsonsApp/Screenshots/presentation.gif" width="200">
 > <img src="https://github.com/keykenzo/HPTrivia/blob/main/HPTrivia/Screenshots/presentation.gif" width="200">
 > <img src="https://github.com/keykenzo/JPApexPredators/blob/main/JPApexPredators/Screenshots/presentation.gif" width="200">
-> <img src="https://github.com/keykenzo/Dex/blob/swiftdata-challenges/Dex/Screenshots/presentation.gif" width="200"> </p>
+> <img src="https://github.com/keykenzo/Dex/blob/swiftdata-challenges/Dex/Screenshots/presentation.gif" width="200"> 
+> <img src="https://github.com/keykenzo/BBQuotes/blob/main/BBQuotes/Screenshots/presentation.gif" width="200"> 
+> <img src="https://github.com/keykenzo/MyFirstAppSwift/blob/main/LOTR%20Converter/Screenshots/presentation.gif" width="200"></p>
 
 ---
 
