@@ -1,1 +1,68 @@
-# MarioDuarte
+# Hi, I'm Mario Duarte da Silveira!  | iOS Developer
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=The%20people%20who%20are%20crazy%20enough%20to%20think%20they%20can%20change%20the%20world%20are%20the%20ones%20who%20do.&author=Steve%20Jobs" alt="Steve Jobs Quote" />
+</p>
+
+### 💫 About Me
+I am a passionate iOS Developer dedicated to creating clean, efficient, and user-centric mobile experiences. My journey began with mastering the core fundamentals of **Swift** and has evolved into building sophisticated applications using the latest Apple technologies. 
+
+Today, I specialize in **Swift 6** and **SwiftUI**, with deep dives into **SwiftData** for modern persistence, **MapKit** for geographic data, and **WidgetKit** for ecosystem integration. I enjoy the challenge of bridging the gap between legacy concepts (like Core Data) and the new era of declarative, safe, and performant programming.
+
+---
+
+### 🛠️ Tech Stack & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/SwiftUI-007ACC?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=xcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/SwiftData-orange?style=for-the-badge&logo=swift&logoColor=white" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+#### 🍩 [Simpsons Encyclopedia](https://github.com/keykenzo/SimpsonsApp)
+*A deep dive into the Simpsons universe with offline support.*
+* **Key Features:** **SwiftData** for local storage, async data fetching, and character insights.
+* **Stack:** SwiftUI, SwiftData, Foundation.
+
+#### 🦖 [JP Apex Predators](https://github.com/keykenzo/JPApexPredators)
+*Interactive dinosaur encyclopedia with geographic tracking.*
+* **Key Features:** **MapKit** integration for habitat visualization and advanced type filtering.
+* **Stack:** MapKit, SwiftUI, Foundation.
+
+#### 🎮 [Dex (Pokédex)](https://github.com/keykenzo/Dex)
+*A technical showcase of database evolution in iOS.*
+* **Key Features:** Dual implementation (**SwiftData vs Core Data**) and interactive Home Screen **Widgets**.
+* **Stack:** SwiftData, Core Data, WidgetKit.
+
+#### 🧪 [Breaking Bad Quotes](https://github.com/keykenzo/BBQuotes)
+*Immersive app featuring iconic quotes and spoiler-safe episode guides.*
+* **Key Features:** **Spoiler management system**, Tab-based navigation, and high-fidelity UI.
+* **Stack:** SwiftUI, Foundation, JSON Parsing.
+
+#### 🧙‍♂️ [HP Trivia](https://github.com/keykenzo/HPTrivia)
+*A magical quiz experience with immersive media.*
+* **Key Features:** Dynamic audio management with **AVKit** and StoreKit integration.
+* **Stack:** AVKit, StoreKit, Swift 6.
+
+#### 📱 [My First App](https://github.com/keykenzo/MyFirstAppSwift)
+*The foundation of my iOS journey.*
+* **Focus:** Mastering Swift fundamentals, UI layouts, and the Apple developer workflow.
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=keykenzo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keykenzo&layout=compact&langs_count=7&theme=dracula" />
+</p>
+
+---
+
+### 📫 How to reach me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-LINK-AQUI)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@dominio.com)
