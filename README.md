@@ -51,6 +51,17 @@ Today, I specialize in **Swift 6** and **SwiftUI**, with deep dives into **Swift
 
 ---
 
+### 🎬 View some of my Projects
+
+> [!TIP]
+> <p align="left">
+> <p><img src="https://github.com/keykenzo/SimpsonsApp/blob/main/SimpsonsApp/Screenshots/presentation.gif" width="200">
+> <img src="https://github.com/keykenzo/HPTrivia/blob/main/HPTrivia/Screenshots/presentation.gif" width="200">
+> <img src="https://github.com/keykenzo/JPApexPredators/blob/main/JPApexPredators/Screenshots/presentation.gif" width="200">
+> <img src="https://github.com/keykenzo/Dex/blob/swiftdata-challenges/Dex/Screenshots/presentation.gif" width="200"> </p>
+
+---
+
 ### 🐍 My Contributions
 <p align="center">
   <img src="https://raw.githubusercontent.com/keykenzo/MarioDuarte/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
@@ -59,5 +70,6 @@ Today, I specialize in **Swift 6** and **SwiftUI**, with deep dives into **Swift
 ---
 
 ### 📫 How to reach me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marioduartesilveira/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariods7@gmail.com)
+
+* [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marioduartesilveira/)
+* [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariods7@gmail.com)
