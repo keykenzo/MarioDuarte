@@ -5,6 +5,9 @@ I am a passionate iOS Developer dedicated to creating clean, efficient, and user
 
 Today, I specialize in **Swift 6** and **SwiftUI**, with deep dives into **SwiftData** for modern persistence, **MapKit** for geographic data, and **WidgetKit** for ecosystem integration. I enjoy the challenge of bridging the gap between legacy concepts (like Core Data) and the new era of declarative, safe, and performant programming.
 
+### 🌎 My AppStore
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/br/app/easy-meal-app/id6761028653)
+
 ---
 
 ### 🛠️ Tech Stack & Tools
@@ -17,8 +20,14 @@ Today, I specialize in **Swift 6** and **SwiftUI**, with deep dives into **Swift
 </p>
 
 ---
-
 ### 🚀 Featured Projects
+
+#### 🍽️ [Easy Meal App](https://apps.apple.com/br/app/easy-meal-app/id6761028653)
+*A complete recipe companion with 595 dishes from around the world, available in 175 countries.*
+* **Key Features:** **SwiftData** persistence for favorites and custom recipes, **YouTube** integration per recipe, advanced filtering by meal type and country, and weekly usage stats.
+* **Focus:** Building a full-scale production app — from **Firebase** authentication with **AuthenticationServices** to data security with **CryptoKit** and reactive state management with **Combine**.
+* **Stack:** SwiftUI, SwiftData, Core Data, Firebase, FirebaseAuth, AuthenticationServices, CryptoKit, Combine, UIKit, Foundation.
+* <img src="https://github.com/keykenzo/ImagesMeal/blob/main/EasyMeal.gif" width="400">
 
 #### 🍩 [Simpsons Encyclopedia](https://github.com/keykenzo/SimpsonsApp)
 *A deep dive into the Simpsons universe with offline support.*
