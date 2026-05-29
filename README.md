@@ -1,4 +1,4 @@
-# Hi, I'm Mario Duarte da Silveira!  | iOS Developer  |  Mechatronics Engineer ⚙️
+# Hi, I'm Mario Duarte da Silveira!  | iOS Developer |  Mechatronics Engineer
 
 ### 💫 About Me
 I am a passionate iOS Developer dedicated to creating clean, efficient, and user-centric mobile experiences. My journey began with mastering the core fundamentals of **Swift** and has evolved into building sophisticated applications using the latest Apple technologies. I have a degree in Mechatronics Engineering, which gave me the opportunity to learn about programming, hardware, and software!
